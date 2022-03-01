@@ -10,7 +10,8 @@ const IGNORED_TASK_DEFINITION_ATTRIBUTES = [
   'taskDefinitionArn',
   'requiresAttributes',
   'revision',
-  'status'
+  'status',
+  'runtimePlatform'
 ];
 
 const WAIT_DEFAULT_DELAY_SEC = 5;
