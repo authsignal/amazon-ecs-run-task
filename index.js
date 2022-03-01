@@ -11,6 +11,9 @@ const IGNORED_TASK_DEFINITION_ATTRIBUTES = [
   'requiresAttributes',
   'revision',
   'status',
+  'registeredAt',
+  'deregisteredAt',
+  'registeredBy',
   'runtimePlatform'
 ];
 
